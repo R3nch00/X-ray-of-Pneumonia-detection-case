@@ -78,9 +78,11 @@ X-ray-of-Pneumonia-detection-case/
 # Tags
 `DeepLearning` `CNN` `TransferLearning` `MedicalAI` `PneumoniaDetection` `Keras` `Tensoflow` `Medical Imaging` `Transfer Learning`
 
+---
 ## 🤝 Contributing
 . Contributions are welcome!
 . Fork the repo
 . Create a new branch (feature/your-feature)
 . Commit your changes
 . Open a Pull Request
+---
